@@ -5,4 +5,4 @@ Simple example projects which serve as proofs-of-concept for various programming
 
 /nameserver contains an example of a nameserver/server/client combination written for Ubuntu using TCP/IP in C.
 
-/embedded contains an example of a microcontroller project written for Parallax' Propeller Development Board using multiple processes and mutexes in SPIN.
+/propeller contains an example of a microcontroller project written for Parallax' Propeller Development Board using multiple processes and mutexes in SPIN.
